@@ -37,3 +37,4 @@ print("Accuracy for training data of our model is : ",accur_train)
 X_pred = classifier.predict(X_test)
 accur_test = accuracy_score(X_pred, Y_test)
 print("Accuracy for testing data of our model is : ",accur_test)
+// finish
